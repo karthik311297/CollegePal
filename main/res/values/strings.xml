@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="cont">cont</string>
+    <string name="wecare">WeCare</string>
+    <string name="logout">LOGOUT</string>
+    <string name="welcome">WELCOME</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="admin">Admin</string>
+    <string name="enter_admin_name">Enter Admin name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="go">GO</string>
+    <string name="enterstudentname">EnterStudentName</string>
+    <string name="enter_dob">Enter DOB</string>
+    <string name="enter_phno">Enter phno</string>
+    <string name="enter_usn">Enter USN</string>
+    <string name="add_student">Add Student</string>
+    <string name="getdatafromserver">getdatafromserver</string>
+    <string name="usn99">USN</string>
+    <string name="submit99">Submit</string>
+    <string name="name99">Name</string>
+    <string name="dob99">DOB</string>
+    <string name="phno99">Phno</string>
+    <string name="add_faculty">Add Faculty</string>
+    <string name="add_event">ADD EVENT</string>
+    <string name="add_department">ADD DEPARTMENT</string>
+    <string name="add_project">ADD PROJECT</string>
+    <string name="add_domain">ADD DOMAIN</string>
+    <string name="add_club">ADD CLUB</string>
+    <string name="add_startup">ADD STARTUP</string>
+    <string name="title">Title</string>
+    <string name="faculty_id">Faculty ID</string>
+    <string name="incharge_usn">Incharge Usn</string>
+    <string name="conducted_by">Conducted By</string>
+    <string name="my_info">MY Info</string>
+    <string name="collegepal">CollegePal</string>
+    <string name="projectid9">PROJECTID</string>
+    <string name="url">URL</string>
+    <string name="search_by_tech">Search by Tech</string>
+    <string name="venue">Venue</string>
+    <string name="reques_t">Reques t</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_conducted_by">Enter Conducted By</string>
+    <string name="enter_venue">Enter Venue</string>
+    <string name="send_request">Send</string>
+    <string name="pending_approvals">Pending Approvals</string>
+    <string name="appnm">Appnm</string>
+    <string name="appcond">Appcond</string>
+    <string name="appven">Appven</string>
+    <string name="approve">Approve</string>
+    <string name="not_approve">Not Approve</string>
+    <array name="Deptartment">
+        <item>CSE</item>
+        <item>ISE</item>
+        <item>MECH</item>
+        <item>ECE</item>
+        <item>CIV</item>
+    </array>
+    <array name="Teckstack">
+        <item>Python</item>
+        <item>Web Developement</item>
+        <item>Machine Learning</item>
+        <item>Artificial Intelligence</item>
+        <item>Database</item>
+        <item>Image Processing</item>
+        <item>Android Developement</item>
+        <item>IOT</item>
+    </array>
+</resources>
